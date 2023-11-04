@@ -4,6 +4,8 @@ Resolución de la 3era serie del examen final
 Marta Marina Bonilla Lémus
 0907-21-1613
 
+Aplicación utilizando Android Studio y kotlin que muestra 3 diferentes Textos con Animaciones.
+Tiene una función para que al deslizar la pantalla cambie de texto, y en el último texto se encuentra un botón para ingresar a la pantalla Home
 
 ![image](https://github.com/Hinata1411/ExamenFinalPrograII/assets/85373964/baf42b3e-cd91-42f5-a7ff-adf8dfbebc6b)
 
